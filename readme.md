@@ -8,6 +8,7 @@ I am a new developer! I know Lua, A little bit of HTML, CSS, JS and I make websi
 ```json
 {
 "Discord": "trir#1968"
+"Telegram": "I don't use telegram"
 }
 ```
 
