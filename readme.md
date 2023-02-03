@@ -11,6 +11,9 @@ I am a new developer! I know Lua, A little bit of HTML, CSS, JS and I make websi
 }
 ```
 
+# Where to donate to me?
+<a href="https://cash.app/$TrirSells" rel="cashapp"![Cash App Badge](https://img.shields.io/badge/Cash%20App-00C244?logo=cashapp&logoColor=fff&style=flat)
+
 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trirdev&theme=dark&show_icons=true)
