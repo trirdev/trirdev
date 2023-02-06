@@ -1,4 +1,4 @@
-# Hi, I'm Trir! 
+# 👋 Hi, I'm Trir! 
 I am a new developer! I know Lua, A little bit of HTML, CSS, JS and I make websites!
 
 # What do I use to develop?
