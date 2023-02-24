@@ -15,3 +15,6 @@ I am a new developer! I know Lua, A little bit of HTML, CSS, JS and I make websi
 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trirdev&theme=dark&show_icons=true)
+
+# System Specs?
+![GTX 1650](https://img.shields.io/badge/NVIDIA-GTX-1650-TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
