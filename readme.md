@@ -10,8 +10,11 @@ note: i stopped using NP++
 # Where to contact me? 
 ```json
 {
+
 "Discord": "trir#0777"
+
 "Telegram": "I don't use Telegram"
+
 }
 ```
 
