@@ -8,16 +8,6 @@ I am a new developer! I know Lua, A little bit of HTML, CSS, JS and I make websi
 
 note: i stopped using NP++
 # Where to contact me? 
-```json
-{
-
-"Discord": "trir#0777"
-
-"Telegram": "I don't use Telegram"
-
-}
-```
-
 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trirdev&theme=dark&show_icons=true)
