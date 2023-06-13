@@ -10,7 +10,7 @@ note: i stopped using NP++
 
 # What is my legal name
 
-Chase Wilson is my name. The Rap is my game. Your mother islame. 
+Chase Wilson is my name. The Rap is my game. Your mother is lame. 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trirdev&theme=dark&show_icons=true)
 
