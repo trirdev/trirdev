@@ -8,7 +8,9 @@ I am a new developer! I know Lua, A little bit of HTML, CSS, JS and I make websi
 
 note: i stopped using NP++
 
+# What is my legal name
 
+Chase Wilson is my name. The Rap is my game. Your mother islame. 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trirdev&theme=dark&show_icons=true)
 
